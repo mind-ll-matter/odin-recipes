@@ -1,3 +1,3 @@
 # odin-recipes
 
-Put new knowledge of HTML into practise. 
+Putting new knowledge of HTML and CSS into practise. 

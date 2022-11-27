@@ -1,0 +1,36 @@
+#header {
+    background-color: rgb(158, 0, 0);
+    color: white;
+    font-size: 40px;
+    font-family: "Lucida Handwriting", "Brush Script MT", serif;
+}
+
+h2 {
+    background-color:aqua;
+    color:blueviolet;
+    font-family: "Copperplate", "Papyrus", sans-serif;
+}
+
+ul p{
+    font-family:'Courier New', Courier, monospace;
+    color:brown;
+    background-color: cornflowerblue;
+}
+
+p {
+    background-color: darkkhaki;
+}
+
+ul li{
+    background-color: darkorchid;
+}
+
+ol li{
+    color: rgb(0, 114, 66);
+    background-color: black;
+}
+
+#chef {
+    width: 300px;
+    height: auto
+}
